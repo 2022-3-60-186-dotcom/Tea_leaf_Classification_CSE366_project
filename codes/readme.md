@@ -1,1 +1,1 @@
-This folder contains all project codes.
+This folder contains all project notebooks.
